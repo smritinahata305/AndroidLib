@@ -1,0 +1,3 @@
+include ':Androidlib'
+include ':app'
+rootProject.name = "libonandroid"
